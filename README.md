@@ -21,7 +21,9 @@ Day-2
 
 Day - 3 
 
-1) Pricing Component WebSite :- HTML, CSS, JS 
+1) Pricing Component WebSite :- HTML, CSS, JS
+   
 2) Solar System Website :- HTML,  CSS
-3) Login-Page :- HTML, CSS, JS 
+
+3) Product Landing Page :- HTML, CSS, JS 
 
