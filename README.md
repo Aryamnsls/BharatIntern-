@@ -25,5 +25,5 @@ Day - 3
    
 2) Solar System Website :- HTML,  CSS
 
-3) Product Landing Page :- HTML, CSS, JS 
+
 
