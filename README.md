@@ -16,3 +16,12 @@ Day-2
 2) ONLINE CODE Editor :- HTML, CSS
 
 3) NEWS-WEB APP:- HTML, JS 
+
+--------------x-----------------
+
+Day - 3 
+
+1) Pricing Component WebSite :- HTML, CSS, JS 
+2) Solar System Website :- HTML,  CSS
+3) Login-Page :- HTML, CSS, JS 
+
